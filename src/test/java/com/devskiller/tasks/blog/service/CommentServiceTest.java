@@ -1,5 +1,6 @@
 package com.devskiller.tasks.blog.service;
 
+import com.devskiller.tasks.blog.model.Comment;
 import com.devskiller.tasks.blog.model.Post;
 import com.devskiller.tasks.blog.model.dto.CommentDto;
 import com.devskiller.tasks.blog.model.dto.NewCommentDto;
